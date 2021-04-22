@@ -1,0 +1,72 @@
+[
+    {
+        "studentId" : "1",
+        "final" : "Object Oriented Programming in C#",
+        "year" : "3",
+        "grade" : "8",
+        "status" : "Passed"
+    },
+    {
+        "studentId" : "2",
+        "final" : "Data Structures and Algorithms",
+        "year" : "2",
+        "grade" : "10",
+        "status" : "Passed"
+    },
+    {
+        "studentId" : "3",
+        "final" : "Cisco Networks I",
+        "year" : "4",
+        "grade" : "5",
+        "status" : "Failed"
+    },
+    {
+        "studentId" : "4",
+        "final" : "Operating Systems",
+        "year" : "1",
+        "grade" : "10",
+        "status" : "Passed"
+    },
+    {
+        "studentId" : "5",
+        "final" : "Back End Programming in JavaScript",
+        "year" : "1",
+        "grade" : "7",
+        "status" : "Passed"
+    },
+    {
+        "studentId" : "6",
+        "final" : "Cisco Networks II",
+        "year" : "3",
+        "grade" : "5",
+        "status" : "Failed"
+    },
+    {
+        "studentId" : "7",
+        "final" : "Competitive Programming in C++",
+        "year" : "2",
+        "grade" : "9",
+        "status" : "Passed"
+    },
+    {
+        "studentId" : "8",
+        "final" : "UI/UX Design",
+        "year" : "4",
+        "grade" : "7",
+        "status" : "Passed"
+    },
+    {
+        "studentId" : "9",
+        "final" : "Video Editing",
+        "year" : "3",
+        "grade" : "8",
+        "status" : "Passed"
+    },
+    {
+        "studentId" : "10",
+        "final" : "Computer Virtualisation",
+        "year" : "2",
+        "grade" : "9",
+        "status" : "Passed"
+    }
+]
